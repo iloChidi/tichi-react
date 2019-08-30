@@ -17,7 +17,7 @@ const Teachers = (props)=>{
       <thead>
         <tr>
           <th>S/N</th>
-          <th>Name</th>
+          <th>Name </th>
           <th>Age</th>
         </tr>
       </thead>
